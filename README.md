@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSanchez96
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently studying a master in Data Science at Universidad de Buenos Aires
 - 📫 How to reach me 
 * Linkedin :www.linkedin.com/in/vrsa
 *  Mail: vicsanabanto@gmail.com
